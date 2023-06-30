@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Practical_15", "MVC_Practical_15\MVC_Practical_15.csproj", "{F7B31282-E8BC-4BBE-93CF-1DD9524296A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Window_Auth", "MVC_Window_Auth\MVC_Window_Auth.csproj", "{8C03E106-21E0-4AB5-B761-EFCA3D7E1DA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F7B31282-E8BC-4BBE-93CF-1DD9524296A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7B31282-E8BC-4BBE-93CF-1DD9524296A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7B31282-E8BC-4BBE-93CF-1DD9524296A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C03E106-21E0-4AB5-B761-EFCA3D7E1DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C03E106-21E0-4AB5-B761-EFCA3D7E1DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C03E106-21E0-4AB5-B761-EFCA3D7E1DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C03E106-21E0-4AB5-B761-EFCA3D7E1DA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
