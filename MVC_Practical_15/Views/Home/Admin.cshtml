@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h1>Login As Admin Account</h1>
+<br />
+<br />
+
+<h2>Hello Admin - @User.Identity.Name</h2>
+<br />
+
+@Html.ActionLink("Logout", "Logout", String.Empty, new { @class = "btn btn-success" })
+
