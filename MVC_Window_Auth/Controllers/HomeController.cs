@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace MVC_Window_Auth.Controllers
 {
+    [Authorize(Users = @"SF-CPU-566\bhavin,SF-CPU-312\jil")]
     public class HomeController : Controller
     {
         public ActionResult Index()

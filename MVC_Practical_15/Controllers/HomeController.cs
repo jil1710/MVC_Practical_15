@@ -45,7 +45,7 @@ namespace MVC_Practical_15.Controllers
                 }
 
             }
-            ModelState.AddModelError("", "All fields are required!");
+            
             return View(user);
         }
 
